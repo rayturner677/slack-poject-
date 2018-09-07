@@ -1,0 +1,32 @@
+.slack-container {
+    border: 1px grey solid;
+    padding: 1rem;
+}
+.slack-info {
+    display: flex;
+    padding: 1rem;
+}
+.slack-header {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px white solid;
+    width: 45rem;
+    margin: 0 auto;
+    text-align: center;
+    padding: 1rem;
+}
+.slack-header p {
+    color: rgb(94, 83, 83);
+    padding: 0.6rem 2.5rem 0 2.5rem;
+}
+.slack-info p {
+    color: rgb(75, 69, 69);
+}
+.page-items {
+    padding: 1rem;
+}
+.slack-info h4 {
+    padding: 0.5rem;
+}
+.slack-link {
+    text-align: center;
+}
